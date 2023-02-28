@@ -1,6 +1,7 @@
 
 
-<a href="https://instagram-clone-master-app.netlify.app" alt=""> Instagram 
+<a href="https://instagram-clone-master-app.netlify.app" alt=""> Instagram
+  <hr>
 <a href="https://github.com/itsmamarkh/instagram_clone_master" alt=""> GitHub Link
 
 ![images](./public/images/Login-page.jpeg)
