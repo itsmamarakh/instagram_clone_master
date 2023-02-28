@@ -1,7 +1,7 @@
 
 
-<a href="" alt=""> Instagram_clone_master
-<a href="" alt=""> AWS
+<a href="instagram-clone-master-app.netlify.app" alt=""> Instagram_clone_master
+
 
 ![images](./public/images/Login-page.jpeg)
 ![images](./public/images/Signup.jpeg)
