@@ -1,6 +1,6 @@
 
 
-<a href="https://instagram-clone-master-app.netlify.app" alt=""> 
+<a href="https://instagram-clone-master-app.netlify.app" alt=""> Instagram 
 
 
 ![images](./public/images/Login-page.jpeg)
